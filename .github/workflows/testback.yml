@@ -14,3 +14,6 @@ jobs:
             - name: github action
               run: echo "github action"
             
+
+            - name: hello 
+            run: echo "hello world"
